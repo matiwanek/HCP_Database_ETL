@@ -1,0 +1,23 @@
+header:
+  'api-key':
+
+input_data:
+  "professionId":
+  "cetTitleKindIds":
+  "genderId":
+  "professionalPracticeLicenseId":
+  "permissionCantonId":
+
+input_website: "https://www.medregom.admin.ch/api/medreg/public/person/search"
+
+database_credentials:
+  "database":
+  "user":
+  "password":
+  "host":
+
+default_database_credentials:
+  database:
+  user:
+  password:
+  host:
